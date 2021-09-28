@@ -19,7 +19,7 @@ Adding a simple AI to the Tic-Tac-Toe Game:
 - Optimal Tic Tac Toe Moves
 
 
-![tic_tac_toe](https://user-images.githubusercontent.com/61280281/91558896-ba479700-e954-11ea-8415-3759e555ad23.png)
+![tic_tac_toe](https://github.com/abhiseksarkar2001/Tic-Tac-Toe-game-using-Python/blob/72c3d61340fe2f5729b8b08d711fbb8ead843c18/tic_tac_toe.png)
 
 - Videos:
   - [Tic Tac Toe - Never Lose (Usually Win)](https://www.youtube.com/watch?v=5n2aQ3UQu9Y&feature=youtu.be)
